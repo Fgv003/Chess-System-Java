@@ -6,10 +6,15 @@
             <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/application/Program.java</file>
             <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/application/UI.java</file>
+            <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/boardgame/BoardException.java</file>
             <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/boardgame/Board.java</file>
             <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/chess/Color.java</file>
+            <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/chess/ChessPosition.java</file>
+            <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/chess/pieces/Rook.java</file>
             <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/boardgame/Piece.java</file>
+            <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/chess/pieces/KIng.java</file>
             <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/chess/ChessMatch.java</file>
+            <file>file:/C:/Users/fabio/OneDrive/Documentos/Curso%20Java%20Completo/Chess%20Project/Chess-System/src/chess/ChessException.java</file>
         </group>
     </open-files>
 </project-private>
